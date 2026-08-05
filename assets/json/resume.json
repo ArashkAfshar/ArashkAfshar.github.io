@@ -25,7 +25,8 @@
       "area": "Economics",
       "studyType": "M.A.",
       "startDate": "2021",
-      "endDate": "2023"
+      "endDate": "2023",
+      "icon": "/assets/img/RU.png"
     },
     {
       "institution": "University of Washington Tacoma",
@@ -34,7 +35,8 @@
       "area": "Business Administration (Finance)",
       "studyType": "B.A., Summa Cum Laude",
       "startDate": "2017",
-      "endDate": "2019"
+      "endDate": "2019",
+      "icon": "/assets/img/UWT.png",
     },
     {
       "institution": "University of Washington Tacoma",
@@ -42,7 +44,8 @@
       "area": "Mathematics",
       "studyType": "B.S., Magna Cum Laude",
       "startDate": "2017",
-      "endDate": "2019"
+      "endDate": "2019",
+      "icon": "/assets/img/UWT.png",
     },
     {
       "institution": "Green River College",
