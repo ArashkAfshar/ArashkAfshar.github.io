@@ -2,10 +2,14 @@
 layout: page
 title: Working Papers
 permalink: /publications/
-description: Working papers and research in progress.
+description: Job market paper and working papers.
 nav: true
 nav_order: 2
 ---
+<!-- _pages/publications.md -->
+<div class="publications">
+{% bibliography %}
+</div>
 
 <!-- Pure CSS to drop year headings and collapse empty image margins -->
 <style>
