@@ -36,16 +36,17 @@
       "studyType": "B.A., Summa Cum Laude",
       "startDate": "2017",
       "endDate": "2019",
-      "icon": "/assets/img/UWT.png",
+      "icon": "/assets/img/UWT.png"
     },
     {
       "institution": "University of Washington Tacoma",
       "location": "Tacoma, WA",
+      "url": "https://https://www.tacoma.uw.edu/",
       "area": "Mathematics",
       "studyType": "B.S., Magna Cum Laude",
       "startDate": "2017",
       "endDate": "2019",
-      "icon": "/assets/img/UWT.png",
+      "icon": "/assets/img/UWT.png"
     },
     {
       "institution": "Green River College",
@@ -53,7 +54,8 @@
       "area": "Business",
       "studyType": "A.A., Highest Honors",
       "startDate": "2014",
-      "endDate": "2016"
+      "endDate": "2016",
+      "icon": "/assets/img/GR.png"
     }
   ],
   "work": [
