@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate at the <a href="https://economics.rutgers.edu/" target="_blank">Department of Economics</a>, <a href="https://www.rutgers.edu/" target="_blank">Rutgers University</a>
 
