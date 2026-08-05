@@ -13,11 +13,8 @@ cv:
       - institution: Rutgers University
         area: Economics
         degree: PhD
-        location: New Brunswick, NJ
-        start_date: 2020
-        end_date: 2027
+        date: 2027
         highlights:
-          - "Expected March 2027"
           - "Advisor and Dissertation Committee Chair: Oriol Carbonell-Nicolau"
       - institution: Rutgers University
         area: Economics
