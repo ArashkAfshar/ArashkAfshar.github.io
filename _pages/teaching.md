@@ -8,8 +8,7 @@ nav_order: 3
 ---
 
 <div class="courses-section mt-5">
-  <p>Here is a summary of the undergraduate courses I have taught:</p>
-
+  
   <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <thead>
