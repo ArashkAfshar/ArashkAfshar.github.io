@@ -11,52 +11,69 @@
       "institution": "Rutgers University",
       "location": "New Brunswick, NJ",
       "url": "https://www.rutgers.edu/",
+      "icon": "/assets/img/RU.png",
       "area": "Economics",
       "studyType": "Ph.D.",
       "startDate": "2020",
       "endDate": "2027 (Exp.)",
-      "icon": "/assets/img/RU.png",
       "courses": ["Advisor and Committee Chair: Oriol Carbonell-Nicolau"]
     },
     {
       "institution": "Rutgers University",
       "location": "New Brunswick, NJ",
       "url": "https://www.rutgers.edu/",
+      "icon": "/assets/img/RU.png",
       "area": "Economics",
       "studyType": "M.A.",
       "startDate": "2021",
-      "endDate": "2023",
-      "icon": "/assets/img/RU.png"
+      "endDate": "2023"
     },
     {
       "institution": "University of Washington Tacoma",
       "location": "Tacoma, WA",
       "url": "https://www.tacoma.uw.edu/",
+      "icon": "/assets/img/UWT.png",
       "area": "Business Administration (Finance)",
       "studyType": "B.A., Summa Cum Laude",
       "startDate": "2017",
-      "endDate": "2019",
-      "icon": "/assets/img/UWT.png"
+      "endDate": "2019"
     },
     {
       "institution": "University of Washington Tacoma",
       "location": "Tacoma, WA",
       "url": "https://www.tacoma.uw.edu/",
+      "icon": "/assets/img/UWT.png",
       "area": "Mathematics",
       "studyType": "B.S., Magna Cum Laude",
       "startDate": "2017",
-      "endDate": "2019",
-      "icon": "/assets/img/UWT.png"
+      "endDate": "2019"
     },
     {
       "institution": "Green River College",
       "location": "Auburn, WA",
       "url": "https://www.greenriver.edu/",
+      "icon": "/assets/img/GR.png",
       "area": "Business",
       "studyType": "A.A., Highest Honors",
       "startDate": "2014",
-      "endDate": "2016",
-      "icon": "/assets/img/GR.png"
+      "endDate": "2016"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Saving as a Luxury Good: Why Progressive Taxation Cannot Guarantee Falling Inequality",
+      "releaseDate": "2026",
+      "summary": "Job Market Paper. When the rich save a systematically larger share of their wealth, no conventional tax instrument inherits the classical guarantee that progressivity compresses the distribution. The wealth tax alone reaches accumulated wealth at its source, yet what governs the long-run trajectory is not the tax rate but the elasticity of retention — how post-tax wealth scales with pre-tax wealth at the top — which every enacted or proposed wealth tax leaves essentially undisturbed. The debate has been conducted over the wrong parameter."
+    },
+    {
+      "name": "The Myth of the Informed Voter",
+      "releaseDate": "2026",
+      "summary": "Working Paper. A model of political campaigns in which advertising manipulates voters by directing their attention to issues chosen by candidates, who are selected by elites. Under unlimited campaign funding the equilibrium favors more extreme candidates; restricting funding shifts it toward a more moderate candidate and a better-informed electorate, offering an equilibrium rationale for campaign-finance limits without abandoning voter rationality."
+    },
+    {
+      "name": "Saving as Instrument and Status: Progressive Taxation in a Dynamic Economy",
+      "releaseDate": "2026",
+      "summary": "Work in Progress. Extends the static analysis to a life-cycle economy, where saving carries additional force as both an instrument and a marker of status; preliminary work suggests this strengthens the case for marginal progressivity."
     }
   ],
   "work": [
@@ -107,23 +124,6 @@
     {
       "title": "Honor Societies",
       "summary": "Pi Mu Epsilon (mathematics), Beta Gamma Sigma (business), Phi Theta Kappa."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Saving as a Luxury Good: Why Progressive Taxation Cannot Guarantee Falling Inequality",
-      "releaseDate": "2026",
-      "summary": "Job Market Paper. When the rich save a systematically larger share of their wealth, no conventional tax instrument inherits the classical guarantee that progressivity compresses the distribution. The wealth tax alone reaches accumulated wealth at its source, yet what governs the long-run trajectory is not the tax rate but the elasticity of retention — how post-tax wealth scales with pre-tax wealth at the top — which every enacted or proposed wealth tax leaves essentially undisturbed. The debate has been conducted over the wrong parameter."
-    },
-    {
-      "name": "The Myth of the Informed Voter",
-      "releaseDate": "2026",
-      "summary": "Working Paper. A model of political campaigns in which advertising manipulates voters by directing their attention to issues chosen by candidates, who are selected by elites. Under unlimited campaign funding the equilibrium favors more extreme candidates; restricting funding shifts it toward a more moderate candidate and a better-informed electorate, offering an equilibrium rationale for campaign-finance limits without abandoning voter rationality."
-    },
-    {
-      "name": "Saving as Instrument and Status: Progressive Taxation in a Dynamic Economy",
-      "releaseDate": "2026",
-      "summary": "Work in Progress. Extends the static analysis to a life-cycle economy, where saving carries additional force as both an instrument and a marker of status; preliminary work suggests this strengthens the case for marginal progressivity."
     }
   ],
   "skills": [
