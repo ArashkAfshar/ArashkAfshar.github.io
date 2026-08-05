@@ -1,97 +1,102 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Name
-      value: "Arashk Afshar"
-    - name: Email
-      value: "afshar.arashk@gmail.com"
-    - name: Fields
-      value: "Public Economics, Political Economy, Microeconomic Theory"
+cv:
+  name: Arashk Afshar
+  email: afshar.arashk@gmail.com
+  website: https://arashkafshar.github.io
+  social_networks:
+    - network: GitHub
+      username: ArashkAfshar
+  sections:
+    fields:
+      - Public Economics, Political Economy, Microeconomic Theory
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D., Economics
-      institution: Rutgers University, New Brunswick, NJ
-      year: 2027 (expected)
-      description:
-        - "Advisor and Dissertation Committee Chair: Oriol Carbonell-Nicolau"
-    - title: M.A., Economics
-      institution: Rutgers University
-      year: 2023
-    - title: B.A., Business Administration (Finance), Summa Cum Laude
-      institution: University of Washington Tacoma
-      year: 2019
-    - title: B.S., Mathematics, Magna Cum Laude
-      institution: University of Washington Tacoma
-      year: 2019
-    - title: A.A., Business, Highest Honors
-      institution: Green River College
-      year: 2016
+    education:
+      - institution: Rutgers University
+        area: Economics
+        degree: PhD
+        location: New Brunswick, NJ
+        start_date: 2020
+        end_date: 2027
+        highlights:
+          - "Expected March 2027"
+          - "Advisor and Dissertation Committee Chair: Oriol Carbonell-Nicolau"
+      - institution: Rutgers University
+        area: Economics
+        degree: MA
+        end_date: 2023
+      - institution: University of Washington Tacoma
+        area: Business Administration (Finance)
+        degree: BA
+        location: Tacoma, WA
+        end_date: 2019
+        highlights:
+          - "Summa Cum Laude"
+      - institution: University of Washington Tacoma
+        area: Mathematics
+        degree: BS
+        end_date: 2019
+        highlights:
+          - "Magna Cum Laude"
+      - institution: Green River College
+        area: Business
+        degree: AA
+        location: Auburn, WA
+        end_date: 2016
+        highlights:
+          - "Highest Honors"
 
-- title: Job Market Paper
-  type: list
-  contents:
-    - "<strong>Saving as a Luxury Good: Why Progressive Taxation Cannot Guarantee Falling Inequality.</strong> When the rich save a systematically larger share of their wealth, no conventional tax instrument inherits the classical guarantee that progressivity compresses the distribution. The wealth tax alone reaches accumulated wealth at its source, yet what governs the long-run trajectory is not the tax rate but the elasticity of retention — how post-tax wealth scales with pre-tax wealth at the top — which every enacted or proposed wealth tax leaves essentially undisturbed. The debate has been conducted over the wrong parameter."
+    job_market_paper:
+      - name: "Saving as a Luxury Good: Why Progressive Taxation Cannot Guarantee Falling Inequality"
+        summary: ""
+        highlights:
+          - "When the rich save a systematically larger share of their wealth, no conventional tax instrument inherits the classical guarantee that progressivity compresses the distribution. The wealth tax alone reaches accumulated wealth at its source, yet what governs the long-run trajectory is not the tax rate but the elasticity of retention — how post-tax wealth scales with pre-tax wealth at the top — which every enacted or proposed wealth tax leaves essentially undisturbed. The debate has been conducted over the wrong parameter."
 
-- title: Working Papers
-  type: list
-  contents:
-    - "<strong>The Myth of the Informed Voter.</strong> A model of political campaigns in which advertising manipulates voters by directing their attention to issues chosen by candidates, who are selected by elites. Under unlimited campaign funding the equilibrium favors more extreme candidates; restricting funding shifts it toward a more moderate candidate and a better-informed electorate, offering an equilibrium rationale for campaign-finance limits without abandoning voter rationality."
-    - "<strong>Saving as Instrument and Status: Progressive Taxation in a Dynamic Economy</strong> (work in progress). Extends the static analysis to a life-cycle economy, where saving carries additional force as both an instrument and a marker of status; preliminary work suggests this strengthens the case for marginal progressivity."
+    working_papers:
+      - name: "The Myth of the Informed Voter"
+        highlights:
+          - "A model of political campaigns in which advertising manipulates voters by directing their attention to issues chosen by candidates, who are selected by elites. Under unlimited campaign funding the equilibrium favors more extreme candidates; restricting funding shifts it toward a more moderate candidate and a better-informed electorate, offering an equilibrium rationale for campaign-finance limits without abandoning voter rationality."
+      - name: "Saving as Instrument and Status: Progressive Taxation in a Dynamic Economy (Work in Progress)"
+        highlights:
+          - "Extends the static analysis to a life-cycle economy, where saving carries additional force as both an instrument and a marker of status; preliminary work suggests this strengthens the case for marginal progressivity."
 
-- title: Teaching
-  type: time_table
-  contents:
-    - title: "Econ 440: Economics of Income Inequality and Discrimination"
-      institution: Rutgers University — Instructor of Record
-      year: 2025, 2026
-      description:
-        - Designed the course and syllabus from a dormant catalog listing.
-    - title: "Econ 402: Labor Economics"
-      institution: Rutgers University — Instructor of Record
-      year: 2024, 2025
-      description:
-        - Designed the syllabus and introduced a research-project–based assessment.
-    - title: "Econ 320: Intermediate Microeconomic Analysis"
-      institution: Rutgers University — Instructor of Record
-      year: 2023, 2025
-      description:
-        - Taught from a fully calculus-based treatment, including sections of seventy-five.
-    - title: "College Writing 101"
-      institution: Rutgers University, Department of English — Instructor
-      year: 2024
+    teaching:
+      - name: "Econ 440: Economics of Income Inequality and Discrimination"
+        location: "Rutgers University — Instructor of Record"
+        date: "2025, 2026"
+        highlights:
+          - "Designed the course and syllabus from a dormant catalog listing."
+      - name: "Econ 402: Labor Economics"
+        location: "Rutgers University — Instructor of Record"
+        date: "2024, 2025"
+        highlights:
+          - "Designed the syllabus and introduced a research-project–based assessment."
+      - name: "Econ 320: Intermediate Microeconomic Analysis"
+        location: "Rutgers University — Instructor of Record"
+        date: "2023, 2025"
+        highlights:
+          - "Taught from a fully calculus-based treatment, including sections of seventy-five."
+      - name: "College Writing 101"
+        location: "Rutgers University, Department of English — Instructor"
+        date: "2024"
 
-- title: Awards and Honors
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - Sidney I. Simon Award — outstanding teaching by a graduate student, Department of Economics, Rutgers University
-    - items:
-        - Nominated, President's Medal, University of Washington Tacoma
-        - Interdisciplinary Award, University of Washington Tacoma
-        - Pi Mu Epsilon, Beta Gamma Sigma, and Phi Theta Kappa honor societies
+    awards_and_honors:
+      - bullet: "Sidney I. Simon Award (2024) — outstanding teaching by a graduate student, Department of Economics, Rutgers University"
+      - bullet: "Nominated, President's Medal, University of Washington Tacoma"
+      - bullet: "Interdisciplinary Award, University of Washington Tacoma"
+      - bullet: "Pi Mu Epsilon, Beta Gamma Sigma, and Phi Theta Kappa honor societies"
 
-- title: Skills
-  type: list
-  contents:
-    - Python, R, Stata, MATLAB, LaTeX
+    skills:
+      - label: Programming
+        details: Python, R, Stata, MATLAB, LaTeX
 
-- title: Service
-  type: list
-  contents:
-    - Volunteer Tax Preparer, United Way of King County
-    - Volunteer Tutor, University of Washington Tacoma and Green River College
+    service:
+      - bullet: "Volunteer Tax Preparer, United Way of King County"
+      - bullet: "Volunteer Tutor, University of Washington Tacoma and Green River College"
 
-- title: Languages
-  type: list
-  contents:
-    - "English (fluent); Farsi (native)"
+    languages:
+      - label: Languages
+        details: "English (fluent); Farsi (native)"
 
-- title: References
-  type: list
-  contents:
-    - "<strong>Oriol Carbonell-Nicolau</strong> (Advisor and Committee Chair), Professor of Economics, Rutgers University — carbonell-nicolau@rutgers.edu"
-    - "<strong>Richard P. McLean</strong>, Distinguished Professor of Economics, Rutgers University — rpmclean@economics.rutgers.edu"
-    - "<strong>Andrew Mackenzie</strong>, Assistant Professor of Economics, Rutgers University — andrew.k.mackenzie@rutgers.edu"
+    references:
+      - bullet: "Oriol Carbonell-Nicolau (Advisor and Committee Chair), Professor of Economics, Rutgers University — carbonell-nicolau@rutgers.edu"
+      - bullet: "Richard P. McLean, Distinguished Professor of Economics, Rutgers University — rpmclean@economics.rutgers.edu"
+      - bullet: "Andrew Mackenzie, Assistant Professor of Economics, Rutgers University — andrew.k.mackenzie@rutgers.edu"
