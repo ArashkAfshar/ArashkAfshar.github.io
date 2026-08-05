@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Name
-      value: Arashk Afshar
+      value: "Arashk Afshar"
     - name: Email
-      value: afshar.arashk@gmail.com
+      value: "afshar.arashk@gmail.com"
     - name: Fields
-      value: Public Economics, Political Economy, Microeconomic Theory
+      value: "Public Economics, Political Economy, Microeconomic Theory"
 
 - title: Education
   type: time_table
