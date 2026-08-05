@@ -12,11 +12,11 @@ nav_order: 4
       <i class="fa-solid fa-file-pdf"></i>&nbsp; Download CV (PDF)
     </a>
   </div>
-  <iframe
-    src="{{ '/assets/pdf/CV_Afshar.pdf' | relative_url }}#toolbar=0&navpanes=0"
-    class="cv-frame"
-    title="Curriculum Vitae">
-  </iframe>
+<iframe
+  src="{{ '/assets/pdf/CV_Afshar.pdf' | relative_url }}"
+  class="cv-frame"
+  title="Curriculum Vitae">
+</iframe>
 </div>
 
 <style>
