@@ -19,7 +19,7 @@ nav_order: 3
         </tr>
       </thead>
       <tbody>
-              <tr>
+        <tr>
           <th scope="row" class="text-nowrap">
             <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">ECON 320</span>
           </th>
@@ -30,7 +30,11 @@ nav_order: 3
             </p>
           </td>
         </tr>
-        <td>
+        <tr>
+          <th scope="row" class="text-nowrap">
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">ECON 402</span>
+          </th>
+          <td>
             <strong>Labor Economics </strong>
             <p class="text-muted mt-1" style="font-size: 0.95rem;">
               A study of how labor markets function and how policy shapes them, spanning labor demand and supply, human capital, compensating differentials, unions, and unemployment. The course pays particular attention to pay and productivity and to questions of gender, race, and ethnicity in the labor market, and it moves students from modeling these markets to analyzing the real policy questions each raises.
@@ -59,10 +63,6 @@ nav_order: 3
             </p>
           </td>
         </tr>
-        <tr>
-          <th scope="row" class="text-nowrap">
-            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">ECON 402</span>
-          </th>
       </tbody>
     </table>
   </div>
