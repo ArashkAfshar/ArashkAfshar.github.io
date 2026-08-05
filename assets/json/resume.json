@@ -31,7 +31,7 @@
     {
       "institution": "University of Washington Tacoma",
       "location": "Tacoma, WA",
-      "url": "https://https://www.tacoma.uw.edu/",
+      "url": "https://www.tacoma.uw.edu/",
       "area": "Business Administration (Finance)",
       "studyType": "B.A., Summa Cum Laude",
       "startDate": "2017",
@@ -41,7 +41,7 @@
     {
       "institution": "University of Washington Tacoma",
       "location": "Tacoma, WA",
-      "url": "https://https://www.tacoma.uw.edu/",
+      "url": "https://www.tacoma.uw.edu/",
       "area": "Mathematics",
       "studyType": "B.S., Magna Cum Laude",
       "startDate": "2017",
@@ -51,6 +51,7 @@
     {
       "institution": "Green River College",
       "location": "Auburn, WA",
+      "url": "https://www.greenriver.edu/",
       "area": "Business",
       "studyType": "A.A., Highest Honors",
       "startDate": "2014",
