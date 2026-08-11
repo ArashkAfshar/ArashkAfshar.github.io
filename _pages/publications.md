@@ -3,8 +3,6 @@ layout: page
 title: Working Papers
 permalink: /publications/
 description: Job market paper and working papers.
-gscholar_badge: true 
-inline_citations: true
 nav: true
 nav_order: 2
 ---
