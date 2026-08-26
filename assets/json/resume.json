@@ -121,19 +121,19 @@
       "name": "Saving as a Luxury Good: Why Progressive Taxation Cannot Guarantee Falling Inequality",
       "publisher": "Job Market Paper",
       "releaseDate": "2026",
-      "summary": "<strong>Saving as a Luxury Good: Why Progressive Taxation Cannot Guarantee Falling Inequality.</strong> When the rich save a systematically larger share of their wealth, no conventional tax instrument inherits the classical guarantee that progressivity compresses the distribution. The wealth tax alone reaches accumulated wealth at its source, yet what governs the long-run trajectory is not the tax rate but the elasticity of retention — how post-tax wealth scales with pre-tax wealth at the top — which every enacted or proposed wealth tax leaves essentially undisturbed. The debate has been conducted over the wrong parameter."
+      "summary": "<strong>Saving as a Luxury Good: Why Progressive Taxation Cannot Guarantee Falling Inequality.</strong> When the rich save a larger share of their wealth, no progressive tax guarantees that inequality falls over time. We show the classical characterizations hold within a period but not across periods, and that what governs the trajectory is a schedule's residual progression, a parameter every enacted and proposed wealth tax leaves untouched."
     },
     {
       "name": "The Myth of the Informed Voter",
       "publisher": "Working Paper",
       "releaseDate": "2026",
-      "summary": "<strong>The Myth of the Informed Voter.</strong> A model of political campaigns in which advertising manipulates voters by directing their attention to issues chosen by candidates, who are selected by elites. Under unlimited campaign funding the equilibrium favors more extreme candidates; restricting funding shifts it toward a more moderate candidate and a better-informed electorate, offering an equilibrium rationale for campaign-finance limits without abandoning voter rationality."
+      "summary": "<strong>The Myth of the Informed Voter.</strong> Even fully informed voters can be decided by which issues a campaign makes salient rather than by what they know: money shapes elections through attention, not information. A binding spending cap forces competition across many issues at once, though whether it seats the broadly representative candidate depends on the structure of the electorate."
     },
     {
       "name": "Saving as Instrument and Status: Progressive Taxation in a Dynamic Economy",
       "publisher": "Work in Progress",
       "releaseDate": "2026",
-      "summary": "<strong>Saving as Instrument and Status: Progressive Taxation in a Dynamic Economy.</strong> Extends the static analysis to a life-cycle economy, where saving carries additional force as both an instrument and a marker of status; preliminary work suggests this strengthens the case for marginal progressivity."
+      "summary": "<strong>Saving as Instrument and Status: Progressive Taxation in a Dynamic Economy.</strong> Extends my job market paper to forward-looking agents, testing whether its non-convergence result depends on myopia. It does not. Anticipating the returns to accumulation, the wealthy save more aggressively still, and containing the divergence requires marginal-rate progressivity, a stricter standard than average-rate."
     }
   ],
   "skills": [
