@@ -32,8 +32,8 @@ latest_posts:
 ---
 I came to economics through community college and the University of Washington Tacoma before beginning my doctoral work at Rutgers, and I work in microeconomic theory, public economics, and political economy.
 
-My job-market paper, *Saving as a Luxury Good: Why Progressive Taxation Cannot Guarantee Falling Inequality*, shows that when the rich save a systematically larger share of their wealth, no conventional tax instrument can be relied on to compress the wealth distribution over time — and that even the wealth tax, the instrument built for this problem, turns on a parameter the current debate has largely overlooked: not the tax rate, but how post-tax wealth scales with pre-tax wealth at the top.
+My research is about how inequality persists — in wealth and in political power — and why the mechanisms meant to correct it so often fail. I build models on how people actually behave rather than on the idealized rational agent, and follow where that leads: a progressive tax that need not compress wealth over time, an election that need not discipline the power of money. What looks like a failure of policy is often a failure of the assumptions beneath it. My working papers develop these ideas across taxation and campaign finance.
 
 I approach teaching as a responsibility of the researcher. I have taught Intermediate Microeconomics, Labor Economics, and Income Inequality and Discrimination as instructor of record, and designed the latter two — along with a new course on the Economics of Education — from the ground up. My aim is to bring students to the frontier of questions that matter and to help them reason about those questions for themselves.
 
-Outside economics, opera is the only music I listen to — I see twenty to thirty performances a season, mostly at the Met — and I hike or bike every weekend and lose an evening a few times a week to a brain-burning board game.
+Outside of economics, opera is the only music I listen to; I'm truly obsessed with La Divina, and I get to the Met for twenty to thirty performances a season. On weekends, I hike or bike, and a few evenings a week I lose to a brain-burning board game.
