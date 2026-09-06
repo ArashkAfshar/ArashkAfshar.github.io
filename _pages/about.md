@@ -11,9 +11,8 @@ profile:
   image: my_profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Department of Economics</p>
-    <p>Rutgers University</p>
-    <p>New Brunswick, NJ</p>
+    New Brunswick, NJ<br>
+    afshar.arashk@gmail.com
 
 news: false 
 
