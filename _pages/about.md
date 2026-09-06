@@ -31,7 +31,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 I am a PhD candidate in economics at Rutgers University, working in public economics, political economy, and microeconomic theory. I am on the 2026–27 job market, with the degree expected in May 2027. My job market paper,
-[Saving as a Luxury Good: Why Progressive Taxation Cannot Guarantee Falling Inequality], shows that when saving is a luxury good, no progressive tax guarantees that wealth inequality falls over time.
+[*Saving as a Luxury Good: Why Progressive Taxation Cannot Guarantee Falling Inequality*](/publications/), shows that when saving is a luxury good, no progressive tax guarantees that wealth inequality falls over time.
 
 My research is about how inequality persists, in wealth and in political power, and why the mechanisms meant to correct it so often fail. I take seriously what standard theory assumes away, that people have limited attention, limited foresight, and preferences over
 wealth itself, and follow where that leads: a progressive tax that need not compress wealth over time, an election that need not discipline the power of money. My working papers develop these ideas across taxation and campaign finance.
