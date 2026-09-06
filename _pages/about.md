@@ -34,7 +34,6 @@ I am a PhD candidate in economics working in public economics, political economy
 
 My research is about how inequality persists, in wealth and in political power, and why the mechanisms meant to correct it so often fail. 
 I build models on how people actually behave rather than on the frictionless agent of standard theory, and follow where that leads: a progressive tax that need not compress wealth over time, an election that need not discipline the power of money. 
-My working papers develop these ideas across taxation and campaign finance.
 
 I came to economics through community college and the University of Washington Tacoma, and I teach with that path in mind. For me, teaching and research are one pursuit. 
 I have taught five courses as instructor of record, from calculus-based intermediate theory to upper-level electives on inequality and education, 
