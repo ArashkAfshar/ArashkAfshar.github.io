@@ -2,8 +2,7 @@
   "basics": {
     "name": "Arashk Afshar",
     "label": "PhD Candidate in Economics",
-    "email": "afshar.arashk@gmail.com",
-    "url": "https://arashkafshar.github.io/",
+    "email": "arashk.afshar@rutgers.edu",
     "summary": "Public economics, political economy, and microeconomic theory."
   },
   "education": [
@@ -121,19 +120,19 @@
       "name": "Progressive Taxation and Dynamic Wealth Inequality under Luxury Saving",
       "publisher": "Job Market Paper",
       "releaseDate": "2026",
-      "summary": "<strong>Progressive Taxation and Dynamic Wealth Inequality under Luxury Saving.</strong> When the rich save a rising share of their wealth, a tax can compress the distribution at every date and still leave the sequence of distributions pulling apart. I show that the classical characterizations hold within a period but have no counterpart across periods, and that what governs the trajectory is a schedule's residual progression, which every enacted and proposed wealth tax leaves near one where the wealth is."
+      "summary": "<strong>Progressive Taxation and Dynamic Wealth Inequality under Luxury Saving.</strong> When the rich save a rising share of their wealth, a tax can compress the distribution at every date and still leave the sequence of distributions pulling apart. I show that the classical characterizations hold within a period but have no counterpart across periods, and that what governs the trajectory is whether a second levy on accumulated wealth takes back what accumulation has spread apart, a contest the static criterion does not speak to. An income tax loses it at every rate; a wealth tax need not win it."
     },
     {
       "name": "The Myth of the Informed Voter",
       "publisher": "Working Paper",
       "releaseDate": "2026",
-      "summary": "<strong>The Myth of the Informed Voter.</strong> Even fully informed voters can be decided by which issues a campaign makes salient rather than by what they know: money shapes elections through attention, not information. A binding spending cap forces competition across many issues at once, though whether it seats the broadly representative candidate depends on the structure of the electorate."
+      "summary": "<strong>The Myth of the Informed Voter.</strong> Even fully informed voters can be decided by which issues a campaign makes salient rather than by what they know: money shapes elections through attention, not information. A binding spending cap forces competition across many issues at once,though whether it seats the broadly representative candidate depends on the structure of the electorate."
     },
     {
       "name": "Saving as Instrument and Status: Progressive Taxation in a Dynamic Economy",
       "publisher": "Work in Progress",
       "releaseDate": "2026",
-      "summary": "<strong>Saving as Instrument and Status: Progressive Taxation in a Dynamic Economy.</strong> Extends my job market paper to forward-looking agents, testing whether its non-convergence result depends on myopia. It does not. Anticipating the returns to accumulation, the wealthy save more aggressively still, and containing the divergence requires marginal-rate progressivity, a stricter standard than average-rate."
+      "summary": "<strong>Saving as Instrument and Status: Progressive Taxation in a Dynamic Economy.</strong> Extends my job market paper to forward-looking agents, which asks whether the non-convergence result depends on myopia. It does not. Anticipating the returns to accumulation, the wealthy save more aggressively still, and containing the divergence requires marginal-rate progressivity, a stricter standard than average-rate."
     }
   ],
   "skills": [
