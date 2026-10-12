@@ -120,19 +120,19 @@
       "name": "Progressive Taxation and Dynamic Wealth Inequality under Luxury Saving",
       "publisher": "Job Market Paper",
       "releaseDate": "2026",
-      "summary": "<strong>Progressive Taxation and Dynamic Wealth Inequality under Luxury Saving.</strong> When the rich save a rising share of their wealth, a tax can compress the distribution at every date and still leave the sequence of distributions pulling apart. I show that the classical characterizations hold within a period but have no counterpart across periods, and that what governs the trajectory is whether a second levy on accumulated wealth takes back what accumulation has spread apart, a contest the static criterion does not speak to. An income tax loses it at every rate; a wealth tax need not win it."
+      "summary": "<strong>Progressive Taxation and Dynamic Wealth Inequality under Luxury Saving.</strong> When the rich save a rising share of their wealth, a tax can compress the distribution at every date and still leave the sequence pulling apart. The classical characterizations hold within a period. Across periods they have no counterpart. What governs the trajectory is whether a second levy on accumulated wealth takes back what accumulation spread apart. An income tax never does. A wealth tax can, and I give an example where it compresses at both dates while the sequence diverges anyway."
     },
     {
       "name": "The Myth of the Informed Voter",
       "publisher": "Working Paper",
       "releaseDate": "2026",
-      "summary": "<strong>The Myth of the Informed Voter.</strong> Even fully informed voters can be decided by which issues a campaign makes salient rather than by what they know: money shapes elections through attention, not information. A binding spending cap forces competition across many issues at once,though whether it seats the broadly representative candidate depends on the structure of the electorate."
+      "summary": "<strong>The Myth of the Informed Voter.</strong> Campaign money buys attention, not information. Even when voters are fully informed, the election turns on which issues a campaign makes salient: with spending unbounded, the loudest issue becomes decisive and its owner wins however narrow her support elsewhere. A binding cap keeps any issue from commanding a majority of attention and leaves the election settled across many, though whether that seats the broadly representative candidate depends on the electorate."
     },
     {
-      "name": "Saving as Instrument and Status: Progressive Taxation in a Dynamic Economy",
+      "name": "Progressive Taxation and Wealth Inequality with Forward-Looking Savers",
       "publisher": "Work in Progress",
       "releaseDate": "2026",
-      "summary": "<strong>Saving as Instrument and Status: Progressive Taxation in a Dynamic Economy.</strong> A dynamic extension with forward-looking agents, which asks whether the non-convergence result depends on myopia. It does not. Anticipating the returns to accumulation, the wealthy save more aggressively still, and containing the divergence requires marginal-rate progressivity, a stricter standard than average-rate."
+      "summary": "<strong>Progressive Taxation and Wealth Inequality with Forward-Looking Savers.</strong> A dynamic extension with forward-looking agents. The question is whether the non-convergence result depends on myopia. It does not. Agents who anticipate the returns to accumulation save harder still. Containing the divergence then takes marginal-rate progressivity, a stricter standard than average-rate."
     }
   ],
   "skills": [
