@@ -9,7 +9,7 @@ nav_order: 6
 
 <div class="row">
   <div class="col-sm-6 mt-3">
-    {% include figure.liquid path="assets/img/parks/yosemite.jpg" title="Yosemite" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/parks/Mesa.jpg" title="Yosemite" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
   <div class="col-sm-6 mt-3">
     {% include figure.liquid path="assets/img/parks/shenandoah.jpg" title="Shenandoah" class="img-fluid rounded z-depth-1" zoomable=true %}
