@@ -14,5 +14,10 @@ nav_order: 6
   <div class="col-sm-6 mt-3">
     {% include figure.liquid path="assets/img/parks/North1.jpg" title="North Cascades" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/parks/Arch.jpg" title="Arches" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
 </div>
-<div class="caption">Mesa Verde National Park (left) and North Cascades National Park (right).</div>
+<div class="caption">Mesa Verde National Park (left) and North Cascades National Park (right), Arches National Park (right.</div>
+
+Arches National Park 
