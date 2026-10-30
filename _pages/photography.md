@@ -15,4 +15,4 @@ nav_order: 6
     {% include figure.liquid path="assets/img/parks/shenandoah.jpg" title="Shenandoah" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
-<div class="caption">Yosemite National Park (left) and Shenandoah National Park (right).</div>
+<div class="caption">Mesa Verde National Park (left) and Shenandoah National Park (right).</div>
