@@ -1,6 +1,6 @@
 ---
 layout: page
-title: photography
+title: Photography
 permalink: /photography/
 description: Photos from U.S. national parks.
 nav: true
