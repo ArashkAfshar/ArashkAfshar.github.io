@@ -9,10 +9,10 @@ nav_order: 6
 
 <div class="row">
   <div class="col-sm-6 mt-3">
-    {% include figure.liquid path="assets/img/parks/Mesa.jpg" title="Yosemite" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/parks/Mesa.jpg" title="Mesa Verde" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
   <div class="col-sm-6 mt-3">
-    {% include figure.liquid path="assets/img/parks/shenandoah.jpg" title="Shenandoah" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/parks/North1.jpg" title="North Cascades" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
-<div class="caption">Mesa Verde National Park (left) and Shenandoah National Park (right).</div>
+<div class="caption">Mesa Verde National Park (left) and North Cascades National Park (right).</div>
