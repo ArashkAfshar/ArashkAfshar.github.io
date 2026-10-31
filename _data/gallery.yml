@@ -1,27 +1,81 @@
+- name: ncascade1.jpg
+  full: /assets/img/gallery/ncascade1.jpg
+  thumb: /assets/img/gallery/thumbs/ncascade1.jpg
+  width: 5647
+  height: 1600
+  caption: ''
+- name: ncascade2.jpg
+  full: /assets/img/gallery/ncascade2.jpg
+  thumb: /assets/img/gallery/thumbs/ncascade2.jpg
+  width: 7000
+  height: 1586
+  caption: ''
+- name: ncascade.jpg
+  full: /assets/img/gallery/ncascade.jpg
+  thumb: /assets/img/gallery/thumbs/ncascade.jpg
+  width: 2400
+  height: 1600
+  caption: ''
+- name: grandteton.jpg
+  full: /assets/img/gallery/grandteton.jpg
+  thumb: /assets/img/gallery/thumbs/grandteton.jpg
+  width: 3959
+  height: 1600
+  caption: ''
+- name: w-amphitheater-lake-2.jpg
+  full: /assets/img/gallery/w-amphitheater-lake-2.jpg
+  thumb: /assets/img/gallery/thumbs/w-amphitheater-lake-2.jpg
+  width: 2400
+  height: 1600
+  caption: ''
+- name: w-lake-solitude-3.jpg
+  full: /assets/img/gallery/w-lake-solitude-3.jpg
+  thumb: /assets/img/gallery/thumbs/w-lake-solitude-3.jpg
+  width: 2400
+  height: 1279
+  caption: ''
+- name: w-static-divide.jpg
+  full: /assets/img/gallery/w-static-divide.jpg
+  thumb: /assets/img/gallery/thumbs/w-static-divide.jpg
+  width: 6295
+  height: 1600
+  caption: ''
+- name: olympicheart-lake.jpg
+  full: /assets/img/gallery/olympicheart-lake.jpg
+  thumb: /assets/img/gallery/thumbs/olympicheart-lake.jpg
+  width: 2400
+  height: 1654
+  caption: ''
+- name: olympic_mt-olympus.jpg
+  full: /assets/img/gallery/olympic_mt-olympus.jpg
+  thumb: /assets/img/gallery/thumbs/olympic_mt-olympus.jpg
+  width: 4053
+  height: 1600
+  caption: ''
+- name: olympicnp.jpg
+  full: /assets/img/gallery/olympicnp.jpg
+  thumb: /assets/img/gallery/thumbs/olympicnp.jpg
+  width: 2400
+  height: 1364
+  caption: ''
 - name: 4passes.jpg
   full: /assets/img/gallery/4passes.jpg
   thumb: /assets/img/gallery/thumbs/4passes.jpg
   width: 3651
   height: 1600
-  caption: 'Maroon Bells - Buckskin Pass'
+  caption: Maroon Bells - Buckskin Pass
 - name: arch.jpg
   full: /assets/img/gallery/arch.jpg
   thumb: /assets/img/gallery/thumbs/arch.jpg
   width: 2400
   height: 1324
-  caption: 'Arches NP - Delicate Arch'
+  caption: Arches NP - Delicate Arch
 - name: blackcanyon.jpg
   full: /assets/img/gallery/blackcanyon.jpg
   thumb: /assets/img/gallery/thumbs/blackcanyon.jpg
   width: 2400
   height: 1312
-  caption: 'Black Canyon of Gunnison NP - Painted wall'
-- name: bryce.jpg
-  full: /assets/img/gallery/bryce.jpg
-  thumb: /assets/img/gallery/thumbs/bryce.jpg
-  width: 2400
-  height: 1255
-  caption: 'Bryce NP - Peek-A-Boo'
+  caption: Black Canyon of Gunnison NP - Painted wall
 - name: capitol-reef.jpg
   full: /assets/img/gallery/capitol-reef.jpg
   thumb: /assets/img/gallery/thumbs/capitol-reef.jpg
@@ -112,18 +166,6 @@
   width: 2400
   height: 1600
   caption: ''
-- name: ncascade.jpg
-  full: /assets/img/gallery/ncascade.jpg
-  thumb: /assets/img/gallery/thumbs/ncascade.jpg
-  width: 2400
-  height: 1600
-  caption: ''
-- name: ncascade2.jpg
-  full: /assets/img/gallery/ncascade2.jpg
-  thumb: /assets/img/gallery/thumbs/ncascade2.jpg
-  width: 7000
-  height: 1586
-  caption: ''
 - name: redwood-fern-canyon1.jpg
   full: /assets/img/gallery/redwood-fern-canyon1.jpg
   thumb: /assets/img/gallery/thumbs/redwood-fern-canyon1.jpg
@@ -141,24 +183,6 @@
   thumb: /assets/img/gallery/thumbs/titcomb-basin-1.jpg
   width: 2400
   height: 1183
-  caption: ''
-- name: w-amphitheater-lake-2.jpg
-  full: /assets/img/gallery/w-amphitheater-lake-2.jpg
-  thumb: /assets/img/gallery/thumbs/w-amphitheater-lake-2.jpg
-  width: 2400
-  height: 1600
-  caption: ''
-- name: w-lake-solitude-3.jpg
-  full: /assets/img/gallery/w-lake-solitude-3.jpg
-  thumb: /assets/img/gallery/thumbs/w-lake-solitude-3.jpg
-  width: 2400
-  height: 1279
-  caption: ''
-- name: w-static-divide.jpg
-  full: /assets/img/gallery/w-static-divide.jpg
-  thumb: /assets/img/gallery/thumbs/w-static-divide.jpg
-  width: 6295
-  height: 1600
   caption: ''
 - name: whitesand.jpg
   full: /assets/img/gallery/whitesand.jpg
@@ -188,5 +212,107 @@
   full: /assets/img/gallery/yellowstone--1.jpg
   thumb: /assets/img/gallery/thumbs/yellowstone--1.jpg
   width: 4132
+  height: 1600
+  caption: ''
+- name: acadia.jpg
+  full: /assets/img/gallery/acadia.jpg
+  thumb: /assets/img/gallery/thumbs/acadia.jpg
+  width: 2400
+  height: 1600
+  caption: ''
+- name: alpine-lakes_tuscohatchie-lake2.jpg
+  full: /assets/img/gallery/alpine-lakes_tuscohatchie-lake2.jpg
+  thumb: /assets/img/gallery/thumbs/alpine-lakes_tuscohatchie-lake2.jpg
+  width: 2400
+  height: 1800
+  caption: ''
+- name: alpine-lakes_wa.jpg
+  full: /assets/img/gallery/alpine-lakes_wa.jpg
+  thumb: /assets/img/gallery/thumbs/alpine-lakes_wa.jpg
+  width: 1600
+  height: 2400
+  caption: ''
+- name: bryce1.jpg
+  full: /assets/img/gallery/bryce1.jpg
+  thumb: /assets/img/gallery/thumbs/bryce1.jpg
+  width: 2400
+  height: 1600
+  caption: ''
+- name: bryce2.jpg
+  full: /assets/img/gallery/bryce2.jpg
+  thumb: /assets/img/gallery/thumbs/bryce2.jpg
+  width: 2400
+  height: 1255
+  caption: ''
+- name: craterlake.jpg
+  full: /assets/img/gallery/craterlake.jpg
+  thumb: /assets/img/gallery/thumbs/craterlake.jpg
+  width: 2400
+  height: 1600
+  caption: ''
+- name: deadvalley.jpg
+  full: /assets/img/gallery/deadvalley.jpg
+  thumb: /assets/img/gallery/thumbs/deadvalley.jpg
+  width: 2400
+  height: 1600
+  caption: ''
+- name: glacier1.jpg
+  full: /assets/img/gallery/glacier1.jpg
+  thumb: /assets/img/gallery/thumbs/glacier1.jpg
+  width: 2400
+  height: 1600
+  caption: ''
+- name: glacier2.jpg
+  full: /assets/img/gallery/glacier2.jpg
+  thumb: /assets/img/gallery/thumbs/glacier2.jpg
+  width: 2400
+  height: 1600
+  caption: ''
+- name: glacier3.jpg
+  full: /assets/img/gallery/glacier3.jpg
+  thumb: /assets/img/gallery/thumbs/glacier3.jpg
+  width: 7000
+  height: 1586
+  caption: ''
+- name: grandcanyon.jpg
+  full: /assets/img/gallery/grandcanyon.jpg
+  thumb: /assets/img/gallery/thumbs/grandcanyon.jpg
+  width: 2400
+  height: 1600
+  caption: ''
+- name: mammoth-cave.jpg
+  full: /assets/img/gallery/mammoth-cave.jpg
+  thumb: /assets/img/gallery/thumbs/mammoth-cave.jpg
+  width: 2400
+  height: 1600
+  caption: ''
+- name: mt-washington-.jpg
+  full: /assets/img/gallery/mt-washington-.jpg
+  thumb: /assets/img/gallery/thumbs/mt-washington-.jpg
+  width: 2400
+  height: 1755
+  caption: ''
+- name: mtrainier.jpg
+  full: /assets/img/gallery/mtrainier.jpg
+  thumb: /assets/img/gallery/thumbs/mtrainier.jpg
+  width: 2400
+  height: 1600
+  caption: ''
+- name: sanjuan_nf.jpg
+  full: /assets/img/gallery/sanjuan_nf.jpg
+  thumb: /assets/img/gallery/thumbs/sanjuan_nf.jpg
+  width: 2400
+  height: 1600
+  caption: ''
+- name: tuscohatchie-lake1.jpg
+  full: /assets/img/gallery/tuscohatchie-lake1.jpg
+  thumb: /assets/img/gallery/thumbs/tuscohatchie-lake1.jpg
+  width: 3393
+  height: 919
+  caption: ''
+- name: wa.jpg
+  full: /assets/img/gallery/wa.jpg
+  thumb: /assets/img/gallery/thumbs/wa.jpg
+  width: 2400
   height: 1600
   caption: ''
