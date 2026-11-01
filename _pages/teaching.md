@@ -26,7 +26,7 @@ Recipient of the Sidney I. Simon Award for outstanding teaching by a graduate st
           <td>
             <strong>Intermediate Microeconomic Analysis </strong>
             <p class="text-muted mt-1" style="font-size: 0.95rem;">
-              A calculus-based treatment of the full arc of microeconomic theory: consumer preferences and choice, producer optimization, and market structures from perfect competition through monopoly and oligopoly. The course extends to game theory, uncertainty and asymmetric information, and market failures such as externalities and public goods — taught at full rigor and without dilution, and designed so that students of varied preparation, from transfer students to mathematics majors, can reach genuine command of the material.
+              A calculus-based course in microeconomic theory: consumer choice, producer optimization, and market structures from perfect competition to monopoly and oligopoly, followed by game theory, uncertainty and asymmetric information, and market failures such as externalities and public goods. The course is rigorous by design and built so that students of varied preparation, from transfer students to mathematics majors, can master the material.
             </p>
           </td>
         </tr>
