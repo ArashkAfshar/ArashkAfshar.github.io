@@ -1,10 +1,10 @@
 ---
 layout: page
-title: opera
+title: Opera
 permalink: /opera/
 description: The Myth of the Simurgh, and why opera is the art form I love most.
 nav: true
-nav_order: 10
+nav_order: 7
 ---
 
 ## The Myth of the Simurgh: The Quest of the Holy Grail
