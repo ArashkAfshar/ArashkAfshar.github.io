@@ -57,7 +57,8 @@ Recipient of the Sidney I. Simon Award for outstanding teaching by a graduate st
             <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">ECON 440 </span>
           </th>
           <td>
-            <strong>Economics of Income Inequality & Discrimination [Syllabus (Spring 2027)](/assets/pdf/econ440_syllabus.pdf) </strong>
+            <strong>Economics of Income Inequality &amp; Discrimination</strong>
+            <a href="{{ '/assets/pdf/econ440_syllabus.pdf' | relative_url }}" class="ml-2" style="font-size: 0.9rem;">Syllabus (Spring 2027)</a>
             <p class="text-muted mt-1" style="font-size: 0.95rem;">
               A study of the economics of distribution, from the measurement of inequality to the theory of optimal taxation. The course begins with the normative question — what a just distribution of opportunity would be, in Rawlsian, Dworkinian, and Senian terms — before turning to economic theory and evidence, including the current debate over a wealth tax.
             </p>
@@ -69,7 +70,7 @@ Recipient of the Sidney I. Simon Award for outstanding teaching by a graduate st
 </div>
 
 <div class="mt-5 pt-3 border-top">
-  <p class="text-muted italic" style="font-size: 0.9rem;">
-    *Note for currently enrolled students: Comprehensive course schedules, weekly readings, and grading rubrics are securely hosted inside the university Learning Management System (LMS).
+  <<p class="text-muted font-italic" style="font-size: 0.9rem;">
+    Note for currently enrolled students: course schedules, weekly readings, and grading rubrics are hosted in the university's learning management system.
   </p>
 </div>
