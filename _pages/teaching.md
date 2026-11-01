@@ -6,6 +6,7 @@ description: Courses I have designed and taught as instructor of record.
 nav: true
 nav_order: 3
 ---
+Recipient of the Sidney I. Simon Award for outstanding teaching by a graduate student, Department of Economics, Rutgers University.
 
 <div class="courses-section mt-5">
   
