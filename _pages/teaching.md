@@ -25,6 +25,7 @@ Recipient of the Sidney I. Simon Award for outstanding teaching by a graduate st
           </th>
           <td>
             <strong>Intermediate Microeconomic Analysis </strong>
+            <a href="{{ '/assets/pdf/econ320_syllabus.pdf' | relative_url }}" class="ml-2" style="font-size: 0.9rem;">Syllabus (Spring 2026)</a>
             <p class="text-muted mt-1" style="font-size: 0.95rem;">
               A calculus-based course in microeconomic theory: consumer choice, producer optimization, and market structures from perfect competition to monopoly and oligopoly, followed by game theory, uncertainty and asymmetric information, and market failures such as externalities and public goods. The course is rigorous by design and built so that students of varied preparation, from transfer students to mathematics majors, can master the material.
             </p>
@@ -36,6 +37,7 @@ Recipient of the Sidney I. Simon Award for outstanding teaching by a graduate st
           </th>
           <td>
             <strong>Labor Economics </strong>
+            <a href="{{ '/assets/pdf/econ402_syllabus.pdf' | relative_url }}" class="ml-2" style="font-size: 0.9rem;">Syllabus (Summer 2026)</a>
             <p class="text-muted mt-1" style="font-size: 0.95rem;">
               A study of how labor markets function and how policy shapes them, spanning labor demand and supply, human capital, compensating differentials, unions, and unemployment. The course pays particular attention to pay and productivity and to questions of gender, race, and ethnicity in the labor market, and it moves students from modeling these markets to analyzing the real policy questions each raises.
             </p>
