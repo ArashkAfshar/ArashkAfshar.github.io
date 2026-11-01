@@ -43,23 +43,23 @@ Recipient of the Sidney I. Simon Award for outstanding teaching by a graduate st
         </tr>
         <tr>
           <th scope="row" class="text-nowrap">
-            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">ECON 440</span>
-          </th>
-          <td>
-            <strong>Economics of Income Inequality & Discrimination</strong>
-            <p class="text-muted mt-1" style="font-size: 0.95rem;">
-              A study of the economics of distribution, from the measurement of inequality to the theory of optimal taxation. The course begins with the normative question — what a just distribution of opportunity would be, in Rawlsian, Dworkinian, and Senian terms — before turning to economic theory and evidence, including the current debate over a wealth tax.
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <th scope="row" class="text-nowrap">
             <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">ECON 438</span>
           </th>
           <td>
             <strong>Education Economics </strong>
             <p class="text-muted mt-1" style="font-size: 0.95rem;">
               An upper-level course on how education is produced, financed, and returned to, taught largely from original empirical research on school policy. Students learn to assess causal evidence — from class-size and school-finance studies to school choice — and to weigh what the evidence can and cannot establish about policy.
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <th scope="row" class="text-nowrap">
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">ECON 440</span>
+          </th>
+          <td>
+            <strong>Economics of Income Inequality & Discrimination</strong>
+            <p class="text-muted mt-1" style="font-size: 0.95rem;">
+              A study of the economics of distribution, from the measurement of inequality to the theory of optimal taxation. The course begins with the normative question — what a just distribution of opportunity would be, in Rawlsian, Dworkinian, and Senian terms — before turning to economic theory and evidence, including the current debate over a wealth tax.
             </p>
           </td>
         </tr>
