@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gallery
+title: Gallery
 permalink: /gallery/
 description: Photos from my backpacking trips.
 nav: true
