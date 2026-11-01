@@ -47,6 +47,7 @@ Recipient of the Sidney I. Simon Award for outstanding teaching by a graduate st
           </th>
           <td>
             <strong>Education Economics </strong>
+            <a href="{{ '/assets/pdf/econ438_syllabus.pdf' | relative_url }}" class="ml-2" style="font-size: 0.9rem;">Syllabus (Fall 2026)</a>
             <p class="text-muted mt-1" style="font-size: 0.95rem;">
               An upper-level course on how education is produced, financed, and returned to, taught largely from original empirical research on school policy. Students learn to assess causal evidence — from class-size and school-finance studies to school choice — and to weigh what the evidence can and cannot establish about policy.
             </p>
@@ -70,7 +71,7 @@ Recipient of the Sidney I. Simon Award for outstanding teaching by a graduate st
 </div>
 
 <div class="mt-5 pt-3 border-top">
-  <<p class="text-muted font-italic" style="font-size: 0.9rem;">
+  <p class="text-muted font-italic" style="font-size: 0.9rem;">
     Note for currently enrolled students: course schedules, weekly readings, and grading rubrics are hosted in the university's learning management system.
   </p>
 </div>
