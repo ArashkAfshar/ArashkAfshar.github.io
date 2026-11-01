@@ -126,11 +126,7 @@
 } /* Name.Tag */
 .highlight .nv {
   color: #40ffff;
-} /* Name.Variable */
-.highlight .ow {
-  color: #6ab825;
-  font-weight: bold;
-} /* Operator.Word */
+} /* Name.Variable */ /* Operator.Word */
 .highlight .w {
   color: #666666;
 } /* Text.Whitespace */ /* Literal.Number.Float */ /* Literal.Number.Hex */
