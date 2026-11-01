@@ -54,7 +54,7 @@ Recipient of the Sidney I. Simon Award for outstanding teaching by a graduate st
         </tr>
         <tr>
           <th scope="row" class="text-nowrap">
-            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">ECON 440</span>
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">ECON 440 [Syllabus (Spring 2027)](/assets/pdf/econ440_syllabus.pdf)</span>
           </th>
           <td>
             <strong>Economics of Income Inequality & Discrimination</strong>
