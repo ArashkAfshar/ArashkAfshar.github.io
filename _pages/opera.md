@@ -27,7 +27,7 @@ In *Rigoletto*, Verdi explores the tragic collision between the grotesque and th
 
 When Gilda sings her coloratura masterpiece, "Caro nome," the rapid, intricate scales are not empty vocal acrobatics; they are the sound of an innocent heart fluttering its wings in the first flush of love. But Verdi's genius is unyielding. In the legendary Act 3 Quartet, he dissolves these isolated lives into a singular, overwhelming wave of tragedy. The voices of the predatory Duke, the seductive Maddalena, the vengeful Rigoletto, and the heartbroken Gilda fuse into a counterpoint in which human cruelty and pure innocence converge at the same point of destiny.
 
-### The Holy Grail of Self-Sacrifice: Callas in Lisbon (1958)
+### The Holy Grail of Self-Sacrifice: *La Traviata*
 
 Nowhere does the Verdian crucible burn hotter than in the legendary 1958 Lisbon performance of *La Traviata* at the Teatro Nacional de São Carlos. This live recording stands as the holy grail of operatic history because Maria Callas—La Divina—completely strips away the operatic ego to channel a true martyrdom.
 
