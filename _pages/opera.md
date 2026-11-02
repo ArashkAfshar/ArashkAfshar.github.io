@@ -57,13 +57,13 @@ While Léo Delibes's *Lakmé* is explicitly rooted in the 19th-century Western f
 
 The centerpiece of the Opera, the famous "Bell Song" ("Où va la jeune Hindoue"), is a dizzying, perilous labyrinth of music. It demands rapid-fire staccatos, ethereal echo effects, and a stratospheric high E-natural that can easily sound like a mechanical, bloodless music box in lesser hands.
 
-### Natalie Dessay: Jumping the Boundless Blue
+### Jumping the Boundless Blue
 
 But Natalie Dessay is a siren of an entirely different order. When Dessay sings Lakmé, she strips away the porcelain veneer of the character and throws herself headfirst into a vast, turbulent ocean of raw human psychology.
 
 Dessay's coloratura is absolutely fearless. It is physically electric, emotionally exposed, and breathtakingly agile. She doesn't just navigate the high notes; she uses them to map the boundaries of a soul caught between sacred duty and forbidden love. Listening to her is like willingly jumping off a cliff into a deep, endless blue sea of sound. The sheer waves of her voice submerge your ego, fulfilling the ultimate promise of the Simurgh myth: you lose yourself completely in the music, only to find your spirit fully integrated on the other side.
 
-## My Manifesto: The Seeker and the Sound
+## The Seeker and the Sound
 
 This is the sanctuary of my personal website, a space dedicated to tracking the divine frequency where the many separate threads of human creation weave into the supreme One.
 
